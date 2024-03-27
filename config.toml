@@ -42,6 +42,5 @@ arch = "arm64-v8a"
 build-mode = "both"
 
 [com.microblink.photomath]
-apkmonk-dlurl = "https://www.apkmonk.com/app/com.microblink.photomath/"
-arch = "arm64-v8a"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photomath/"
 build-mode = "both"
