@@ -1,6 +1,7 @@
 com.microblink.photomath: 8.32.0  
-Twitter: 10.41.0-release.0  
+Twitter: 10.41.0-release.1  
 Tiktok: 32.5.3  
+com.facebook.katana: 464.0.0.60.90  
 Messenger: 458.0.0.54.108  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube and YT Music  
