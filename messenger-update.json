@@ -1,6 +1,6 @@
 {
-  "version": "v459.0.0.48.108",
-  "versionCode": 64,
-  "zipUrl": "https://github.com/bandithedoge/revanced/releases/download/64/messenger-revanced-magisk-v459.0.0.48.108-arm64-v8a.zip",
+  "version": "v459.1.0.57.108",
+  "versionCode": 65,
+  "zipUrl": "https://github.com/bandithedoge/revanced/releases/download/65/messenger-revanced-magisk-v459.1.0.57.108-arm64-v8a.zip",
   "changelog": "https://raw.githubusercontent.com/bandithedoge/revanced/update/build.md"
 }

@@ -1,8 +1,7 @@
 com.microblink.photomath: 8.37.0  
 Twitter: 10.42.0-release.0  
 Tiktok: 32.5.3  
-com.facebook.katana: 464.0.0.60.90  
-Messenger: 459.0.0.48.108  
+Messenger: 459.1.0.57.108  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube and YT Music  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) module to detach YouTube and YT Music from Play Store  
