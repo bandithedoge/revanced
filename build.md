@@ -1,5 +1,5 @@
 com.microblink.photomath: 8.37.0  
-Twitter: 10.44.0-release.0  
+Twitter: 10.45.0-release.0  
 Tiktok: 32.5.3  
 com.facebook.katana: 467.1.0.52.83  
 Messenger: 461.0.0.41.109  
