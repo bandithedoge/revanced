@@ -1,6 +1,6 @@
 com.microblink.photomath: 8.37.0  
-Tiktok: 32.5.3  
 Twitter: 10.46.1-release.0  
+Tiktok: 32.5.3  
 Messenger: 463.0.0.36.109  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube and YT Music  
@@ -10,9 +10,9 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) module to detach YouT
 
 Changelog:  
 CLI: j-hc/revanced-cli-4.6.0-all.jar  
-Integrations: ReVanced/revanced-integrations-1.10.0.apk  
-Patches: ReVanced/revanced-patches-4.9.0.jar  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v4.9.0)  
+Integrations: ReVanced/revanced-integrations-1.11.0.apk  
+Patches: ReVanced/revanced-patches-4.10.0.jar  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v4.10.0)  
 
 Skipped:  
 Patches: YT-Advanced/revanced-patches-2.220.10.jar    
