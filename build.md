@@ -1,6 +1,6 @@
 com.microblink.photomath: 8.37.0  
-Tiktok: 32.5.3  
 com.facebook.katana: 474.0.0.52.74  
+Tiktok: 32.5.3  
 Messenger: 468.0.0.45.109  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube and YT Music  
