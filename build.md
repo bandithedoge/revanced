@@ -1,4 +1,5 @@
 com.microblink.photomath: 8.37.0  
+com.facebook.katana: 475.1.0.46.82  
 Tiktok: 32.5.3  
 Messenger: 469.0.0.38.109  
 
