@@ -1,4 +1,5 @@
 com.microblink.photomath: 8.37.0  
+Messenger: 439.0.0.29.119  
 Tiktok: 32.5.3  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube and YT Music  
