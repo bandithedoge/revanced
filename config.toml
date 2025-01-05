@@ -21,6 +21,7 @@ integrations-source = "inotia00/revanced-integrations"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit/"
+apkmirror-dpi = "120-640dpi"
 
 [Facebook]
 apkmirror-dlurl = "https://apkmirror.com/apk/facebook-2/facebook"
