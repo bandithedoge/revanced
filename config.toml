@@ -28,3 +28,7 @@ apkmirror-dlurl = "https://apkmirror.com/apk/facebook-2/facebook"
 
 [Photomath]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photomath/"
+
+[Speedtest]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/ookla/speedtest/"
+patches-source = "BholeyKaBhakt/revanced-patches-xtra"
