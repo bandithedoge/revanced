@@ -22,6 +22,8 @@ apkmirror-dpi = "120-640dpi"
 
 [Facebook]
 apkmirror-dlurl = "https://apkmirror.com/apk/facebook-2/facebook"
+apkmirror-dpi = "360-480dpi"
+arch = "arm64-v8a"
 
 [Photomath]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photomath/"
